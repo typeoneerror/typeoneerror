@@ -10,6 +10,7 @@ You can find out more about me on my [personal website](https://typeoneerror.com
 
 ## Now
 
+- 🪄 Currently I'm working on the re-launch of version 2.0 of my course on Notion Formulas called [Formula Fundamentals](https://notionmastery.com/formulas).
 - 👨‍💻 I offer consulting (primarily technical strategy) via my company [Oki Doki](https://weareokidoki.com) and I also instruct 1,000s of students and companies on how to scale their Notion practice at [Notion Mastery](https://notionmastery.com).
 - 👨‍🚒 I'm also a volunteer firefighter and am currently working through the [Fire Officer](https://www.jibc.ca/areas-of-study/firefighting/fire-officer) program at the Justice Institute of BC.
 - 👯 I’m looking to collaborate on: fire technologies for the digital age.
